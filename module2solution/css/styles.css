@@ -1,0 +1,174 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 100%;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1 {
+  margin-bottom: 15px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text-align: center;
+}
+p {
+  border: 1px solid black;
+  background-color: gray;
+  width: 90%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: white;
+  position: relative;
+  
+}
+
+
+a {
+  border: 1px solid black;
+  background-color: #A52A2A;
+  width: 60px;
+  height: 20px;
+  position: top right;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: white;
+  float: right;
+  
+  
+
+}
+.horizontal {
+  width: 100%;
+}
+
+/*desktop*/
+@media (min-width: 992px) {
+  .co-l-1, .co-l-2, .co-l-3, .co-l-4, .co-l-5, .co-l-6, .co-l-7, .co-l-8, .co-l-9, .co-l-10, .co-l-11, .co-l-12 {
+    float: left;
+  }
+  .co-l-1 {
+    width: 8.33%;
+  }
+  .co-l-2 {
+    width: 16.66%;
+  }
+  .co-l-3 {
+    width: 25%;
+  }
+  .co-l-4 {
+    width: 33.33%;
+  }
+  .co-l-5 {
+    width: 41.66%;
+  }
+  .co-l-6 {
+    width: 50%;
+  }
+  .co-l-7 {
+    width: 58.33%;
+  }
+  .co-l-8 {
+    width: 66.66%;
+  }
+  .co-l-9 {
+    width: 74.99%;
+  }
+  .co-l-10 {
+    width: 83.33%;
+  }
+  .co-l-11 {
+    width: 91.66%;
+  }
+  .co-l-12 {
+    width: 100%;
+  }
+}
+/*Tablet*/
+@media (min-width: 768px) and (max-width: 991px) {
+  .co-m-1, .co-m-2, .co-m-3, .co-m-4, .co-m-5, .co-m-6, .co-m-7, .co-m-8, .co-m-9, .co-m-10, .co-m-11, .co-m-12 {
+    float: left;
+  }
+  .co-m-1 {
+    width: 8.33%;
+  }
+  .co-m-2 {
+    width: 16.66%;
+  }
+  .co-m-3 {
+    width: 25%;
+  }
+  .co-m-4 {
+    width: 33.33%;
+  }
+  .co-m-5 {
+    width: 41.66%;
+  }
+  .co-m-6 {
+    width: 50%;
+  }
+  .co-m-7 {
+    width: 58.33%;
+  }
+  .co-m-8 {
+    width: 66.66%;
+  }
+  .co-m-9 {
+    width: 74.99%;
+  }
+  .co-m-10 {
+    width: 83.33%;
+  }
+  .co-m-11 {
+    width: 91.66%;
+  }
+  .co-m-12 {
+    width: 100%;
+  }
+}
+
+/*Mobiles*/
+@media (max-width: 767px;) {
+  .co-s-1, .co-s-2, .co-s-3, .co-s-4, .co-s-5, .co-s-6, 
+  .co-s-7,.co-s-8, .co-s-9, .co-s-10, .co-s-11, .co-s-12 {
+    float: left;
+  }
+.co-s-1 {
+  width:8.33%;
+} 
+.co-s-2 {
+  width: 16.66%;
+}
+.co-s-3{
+  width: 25%;
+}
+.co-s-4{
+  width: 33.33%;
+}
+.co-s-5{
+  width: 41.66%;
+}
+.co-s-6{
+  width: 50%;
+}
+.co-s-7{
+  width: 58.33%;
+}
+.co-s-8{
+  width: 66.66%;
+}
+.co-s-9{
+  width: 74.99%;
+}
+.co-s-10{
+  width: 83.33%;
+}
+.co-s-11{
+  width: 91.66%
+}
+.co-s-12{
+  width: 100%;
+}
+}
