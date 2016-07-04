@@ -2,22 +2,22 @@
     font-family: 'Bebas Neue';
     font-stretch: normal;
 	font-weight: 400;
-    src: url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-regular.eot');
-    src: url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-regular.eot') format('embedded-opentype'),
-         url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-regular.woff') format('woff'),
-         url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-regular.ttf') format('truetype'),
-         url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-regular.svg#BebasNeueRegular') format('svg');
+    src: url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-regular.eot');
+    src: url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-regular.eot') format('embedded-opentype'),
+         url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-regular.woff') format('woff'),
+         url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-regular.ttf') format('truetype'),
+         url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-regular.svg#BebasNeueRegular') format('svg');
 }
 
 @font-face {
     font-family: 'Bebas Neue';
     font-stretch: normal;
 	font-weight: 100;
-    src: url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-thin.eot');
-    src: url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-thin.eot') format('embedded-opentype'),
-         url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-thin.woff') format('woff'),
-         url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-thin.ttf') format('truetype'),
-         url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-thin.svg#BebasNeueThin') format('svg');
+    src: url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-thin.eot');
+    src: url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-thin.eot') format('embedded-opentype'),
+         url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-thin.woff') format('woff'),
+         url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-thin.ttf') format('truetype'),
+         url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/bebasneue-thin.svg#BebasNeueThin') format('svg');
 }
 
 
@@ -25,22 +25,22 @@
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
-  src: url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Regular.eot');
-  src: url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Regular.eot#iefix') format('embedded-opentype'),
-       url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Regular.woff') format('woff'),
-       url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Regular.ttf') format('truetype'),
-       url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+  src: url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Regular.eot');
+  src: url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Regular.eot#iefix') format('embedded-opentype'),
+       url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Regular.woff') format('woff'),
+       url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Regular.ttf') format('truetype'),
+       url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
 }
 
 @font-face {
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 700;
-  src: url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Bold.eot');
-  src: url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Bold.eot#iefix') format('embedded-opentype'),
-       url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Bold.woff') format('woff'),
-       url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Bold.ttf') format('truetype'),
-       url('http://127.0.0.1/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Bold.svg#Montserrat-Bold') format('svg');
+  src: url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Bold.eot');
+  src: url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Bold.eot#iefix') format('embedded-opentype'),
+       url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Bold.woff') format('woff'),
+       url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Bold.ttf') format('truetype'),
+       url('http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/fonts/Montserrat-Bold.svg#Montserrat-Bold') format('svg');
 }
 	/*
 * Skeleton V1.2
@@ -1046,7 +1046,7 @@ yx-axis
 	.mCSB_scrollTools .mCSB_buttonDown,
 	.mCSB_scrollTools .mCSB_buttonLeft,
 	.mCSB_scrollTools .mCSB_buttonRight{
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/css/mCSB_buttons.png); /* css sprites */
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/css/mCSB_buttons.png); /* css sprites */
 		background-repeat: no-repeat;
 		opacity: 0.4; filter: "alpha(opacity=40)"; -ms-filter: "alpha(opacity=40)"; 
 	}

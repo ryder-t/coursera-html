@@ -92,7 +92,7 @@ License URI:      license.txt
 
 /*	Blockquotes  */
 	blockquote { 
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/misc/quote-icon.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/misc/quote-icon.png);
 		background-position: left top;
 		background-repeat: no-repeat;
 		background-size: 26px 20px;
@@ -330,7 +330,7 @@ License URI:      license.txt
 
 	.loader {
 		background-color: #ffffff;
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/misc/loader.gif);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/misc/loader.gif);
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: 40px 40px;
@@ -426,7 +426,7 @@ License URI:      license.txt
 	}
 
 	a.more {
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/misc/more.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/misc/more.png);
 		background-position: right 6px;
 		background-repeat: no-repeat;
 		background-size: 6px 9px;
@@ -467,21 +467,21 @@ License URI:      license.txt
 	}
 
 	a.newer {
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/misc/newer.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/misc/newer.png);
 		background-position: right 5px;
 		float: right;
 		padding-right: 12px;
 	}
 
 	a.older {
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/misc/older.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/misc/older.png);
 		background-position: left 5px;
 		float: left;
 		padding-left: 12px;
 	}
 
 	a.all {
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/misc/all.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/misc/all.png);
 		background-position: left 6px;
 		background-size: 9px 9px;
 		float: left;
@@ -641,7 +641,7 @@ text-align:left;
 
 	.header .menu {
 		background-color: transparent;
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/misc/navigation-menu.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/misc/navigation-menu.png);
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: 28px 17px;
@@ -666,7 +666,7 @@ text-align:left;
 	}
 
 	.header .menu.close {
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/misc/navigation-menu-close.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/misc/navigation-menu-close.png);
 		background-size: 17px 17px;
 	}
 
@@ -830,7 +830,7 @@ z-index: 1 !important;
 	}
 
 	.homepage .image {
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/img/backgrounds/home.jpg);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/img/backgrounds/home.jpg);
 		background-attachment: fixed;
 		background-color: #111111;
 		background-position: center center;
@@ -902,7 +902,7 @@ z-index: 1 !important;
 
 	.homepage .discover {
 		background-color: transparent;
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/misc/discover.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/misc/discover.png);
 		background-position: center bottom;
 		background-repeat: no-repeat;
 		background-size: 22px 13px;
@@ -984,11 +984,11 @@ z-index: 1 !important;
 	}
 
 	.homepage .flex-prev {
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/misc/home-arrow-top.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/misc/home-arrow-top.png);
 	}
 
 	.homepage .flex-next {
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/misc/home-arrow-bottom.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/misc/home-arrow-bottom.png);
 	}
 
 
@@ -1113,7 +1113,7 @@ z-index: 1 !important;
 	}
 
 	.work-preview .close {
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/misc/preview-close.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/misc/preview-close.png);
 		background-position: right center;
 		background-repeat: no-repeat;
 		background-size: 16px 16px;
@@ -1159,7 +1159,7 @@ z-index: 1 !important;
 	}
 	
 	.work-preview .nav .prev, .work-preview .nav .next {
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/misc/work-preview-nav.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/misc/work-preview-nav.png);
 		background-repeat: no-repeat;
 		background-size: 21px 13px;
 		color: #000000;
@@ -1337,7 +1337,7 @@ body .sticky .post-info:before {
 	}
 
 	article .mfp-close {
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/img/misc/preview-close.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/img/misc/preview-close.png);
 		background-position: left center;
 		background-repeat: no-repeat;
 		background-size: 16px 16px;
@@ -1438,11 +1438,11 @@ body .sticky .post-info:before {
 	}
 
 	article .social .facebook {
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/facebook.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/facebook.png);
 	}
 
 	article .social .twitter {
-		background-image: url(http://127.0.0.1/elahandreah/wp-content/themes/bow/img/twitter.png);
+		background-image: url(http://ryder-t.github.io/coursera-html/elahandreah/wp-content/themes/bow/img/twitter.png);
 	}
 
 	article .author {
