@@ -6,38 +6,69 @@
 body {
   
   font-family: "Comic Sans MS", cursive, sans-serif;
+  margin: 0px;
 }
 
 
-p {
-  border: 1px solid black;
-  background-color: gray;
-  width: 90%;
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
-  font-family: "Comic Sans MS", cursive, sans-serif;
-  color: white;
-  position: relative;
-  font-size: 100%;
-  
+
+
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+#nav-list {
+  background-color: #7fc984
 }
 
-
-a {
-  border: 1px solid black;
-  background-color: #A52A2A;
-  width: 71px;
-  height: 25px;
-  position: top right;
-  font-family: "Comic Sans MS", cursive, sans-serif;
-  color: white;
-  float: right;
-  font-size:125%;
-
-  
-
+#brand{
+  width: 100px;
+  height: 100px;
 }
+#header-nav h1 {
+  margin: 0px
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+
+#collapsable-nav a {
+  font-size: 1.2em;
+}
+
+#main-content h2{
+  text-align: center;
+}
+
+#tall-section {
+  background-color: #7fc984;
+  height: 1000px;
+  text-align: justify;
+}
+
+#tall-section p {
+  color: black;
+}
+
+#tall-section h3{
+  text-align: center;
+}
+#collapsable-nav a span {
+  font-size: 1em;
+  margin-right: 5px;
+}
+
 h1 {
   margin-bottom: 15px;
   font-family: "Comic Sans MS", cursive, sans-serif;
